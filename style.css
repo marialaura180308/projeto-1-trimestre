@@ -1,3 +1,8 @@
+*{
+margin: 0;
+padding: 0;
+}
+
 .cabecalho {
     background-color: #383d58;
     color: white
@@ -12,5 +17,6 @@
 
 .cabecalho-item{
  display: inline-block;
- 
+ margin: 0 16px;
+ font-size: 24px;
 }
