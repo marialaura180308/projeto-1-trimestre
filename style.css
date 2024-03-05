@@ -1,6 +1,16 @@
-header{
+.cabecalho {
     background-color: #383d58;
-    color: white;
+    color: white
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
-.imagem-cabecalho
+.imagem-cabecalho {
+    width: 20%;
+}
+
+.cabecalho-item{
+ display: inline-block;
+ 
+}
