@@ -31,3 +31,11 @@ color: white;
 display: flex;
 
 }
+
+.conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0px;
+}
